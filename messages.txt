@@ -1,2 +1,0 @@
-1524359824|marge|Hello Batch '85|127.0.0.1
-1524360117|marge|Add photos here|127.0.0.1
